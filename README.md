@@ -1,4 +1,4 @@
-# A p2j Flet app
+# quizz_app
 
 An example of a minimal Flet app.
 
